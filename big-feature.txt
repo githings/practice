@@ -2,5 +2,6 @@ big
 big
 big
 
-smell
-smile
+
+small_1
+small_2
